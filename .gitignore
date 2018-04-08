@@ -1,0 +1,9 @@
+# Parameters
+.env
+# Vendor
+/vendor
+
+# Cache, session files and logs
+/public/hot
+/public/storage
+/storage/*.key
