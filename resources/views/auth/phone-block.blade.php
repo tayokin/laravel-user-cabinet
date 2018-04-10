@@ -1,6 +1,6 @@
 <div class="top-row">
     <div class="field-wrap">
-        <label for="phone-code">Код страны<span class="req">*</span></label>
+        <label for="phone-code" class="active">Код страны<span class="req">*</span></label>
         <input id="phone-code" name="phone_code" type="text" value="+380" required />
     </div>
     <div class="field-wrap">
